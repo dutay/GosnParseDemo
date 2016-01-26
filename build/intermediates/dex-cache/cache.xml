@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\GosnParseDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\GosnParseDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_17d9eca255d679344c5b28e1872bd6a24b1394cb.jar" />
+    </item>
+    <item
+        jar="E:\GosnParseDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\GosnParseDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_affdbe3d86088ed9e98586fca0f695c2a694e747.jar" />
+    </item>
+    <item
+        jar="E:\GosnParseDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\GosnParseDemo\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_47e83437b50df16a8e164669af9a5e39168ccafc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="E:\GosnParseDemo\app\build\intermediates\pre-dexed\debug\gson-2.3.1_3d67bc6296728dce11d45e3fe02a4d0f0bf336e9.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\GosnParseDemo\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_34a57f82165fcc191123ae4d70b3d0379c72c265.jar" />
+    </item>
+
+</items>
